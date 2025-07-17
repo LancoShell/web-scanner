@@ -51,5 +51,5 @@ python scanner.py https://testphp.vulnweb.com
 [INFO] Scan completed in 12.34 seconds
 ```
 👤 Autore
-https://lancohacker.com
+https://lancohacker.com  |   
 info@lancohacker.com
