@@ -26,6 +26,6 @@ Uno strumento avanzato in Python per la scansione automatica di vulnerabilità w
 Clona il repository ed esegui l'installazione dei pacchetti:
 
 ```bash
-git clone https://github.com/tuo-username/web-vulnerability-scanner.git
-cd web-vulnerability-scanner
+git clone https://github.com/LancoShell/web-scanner.git
+cd web-scanner
 pip install -r requirements.txt
