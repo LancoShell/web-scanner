@@ -39,7 +39,7 @@ python web-scanner.py http://www.sito-target.it
 ```
 Esempio pratico:
 ```bash
-python scanner.py https://testphp.vulnweb.com
+python web-scanner.py https://testphp.vulnweb.com
 ```
 🧪 Esempio di Output
 ```bash
