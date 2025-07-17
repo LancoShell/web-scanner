@@ -29,18 +29,18 @@ Clona il repository ed esegui l'installazione dei pacchetti:
 git clone https://github.com/LancoShell/web-scanner.git
 cd web-scanner
 pip install -r requirements.txt
-
+```
 
 ▶️ Utilizzo
 
 Lancia il tool specificando l'URL target da analizzare:
 ```bash
 python web-scanner.py http://www.sito-target.it
-
+```
 Esempio pratico:
 ```bash
 python scanner.py https://testphp.vulnweb.com
-
+```
 🧪 Esempio di Output
 ```bash
 [INFO] Starting scan on https://testphp.vulnweb.com
@@ -49,7 +49,7 @@ python scanner.py https://testphp.vulnweb.com
 [CRITICAL] XSS vulnerability found at: https://testphp.vulnweb.com/search.php
 [WARNING] Potential CSRF vulnerability: https://testphp.vulnweb.com/profile
 [INFO] Scan completed in 12.34 seconds
-
+```
 👤 Autore
 https://lancohacker.com
 info@lancohacker.com
